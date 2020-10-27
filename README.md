@@ -6,11 +6,16 @@ Tasks Listing
 
   Git really great technologie. Is is simple, strong and safely. Simple thingth, that dont need to add sothing, are very fundamental and convenient.
   Great that git is so powerful and laconic. Basic abstractions of git are:
-    a)repository
-    b)branch
-    c)commit
-    d)HEAD (commit in focus)
-    e)remote repository
+  
+  a)repository
+  
+  b)branch
+  
+  c)commit
+  
+  d)HEAD (commit in focus)
+  
+  e)remote repository
   
   
 2. Linux CLI, HTTP
