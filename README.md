@@ -12,7 +12,8 @@
   - HEAD (commit in focus)
   - remote repository
   - tag
-  
+![course from Udacity is done](/img/1-mini.png)
+
  There are not so many commands in git like in programming languages. This not suprising because there is a lot more abstraction in programming languages.
  
  Commands thet I learned in course and practice in [learngitbranching.js.org](https://learngitbranching.js.org/?locale=ru_RU "Great App")
