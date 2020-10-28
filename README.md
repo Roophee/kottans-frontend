@@ -36,7 +36,7 @@
   - clone
   - push
   
-Thanks for this knowledge.  
+Thanks for this knowledge.  It was fun.
 
 !["Main: Introduction Sequence" is done](/img/2-mini.png "'Main: Introduction Sequence' is done")
 
