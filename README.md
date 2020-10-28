@@ -20,7 +20,25 @@
   - tag
   
  There are not so many commands in git like in programming languages. This not suprising because there is a lot more abstraction in programming languages.
+ 
  Commands thet I learned in course and practice in [learngitbranching.js.org](https://learngitbranching.js.org/?locale=ru_RU "Great App")
+ 
+  - add
+  - commit (--amend)
+  - log
+  - show
+  - diff
+  - checkout
+  - branch
+  - revert
+  - reset
+  - rebase
+  - cherry-pick
+  - fetch
+  - merge
+  - pull (fetch+merge)
+  - clone
+  - push
   
   
 ### 2. Linux CLI, HTTP
