@@ -21,7 +21,7 @@
  
   - add
   - commit (--amend)
-  - log (--stat, -p, --oneline, --decorate, --grapg, --all)
+  - log (--stat, -p, --oneline, --decorate, --graph, --all)
   - show
   - diff
   - checkout (-b)
