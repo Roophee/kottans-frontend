@@ -6,17 +6,11 @@
 
   Git really great technologie. Is is simple, strong and safely. Simple thingth, that don't need to add something, are very fundamental and convenient.
   Great that git is so powerful and laconic. Basic abstractions of git are:
-  
   - repository
-  
   - branch
-  
   - commit
-  
   - HEAD (commit in focus)
-  
   - remote repository
-  
   - tag
   
  There are not so many commands in git like in programming languages. This not suprising because there is a lot more abstraction in programming languages.
@@ -25,14 +19,14 @@
  
   - add
   - commit (--amend)
-  - log
+  - log (--stat, -p, --oneline, --decorate, --grapg, --all)
   - show
   - diff
-  - checkout
-  - branch
+  - checkout (-b)
+  - branch (-D, -f, -m, -u)
   - revert
   - reset
-  - rebase
+  - rebase (-i)
   - cherry-pick
   - fetch
   - merge
@@ -40,6 +34,7 @@
   - clone
   - push
   
+Thanks for this knowledge.  
   
 ### 2. Linux CLI, HTTP
 ### 3. Git for Team Collaboration
