@@ -58,6 +58,13 @@ Thanks.
 
    
 ### 3. Git for Team Collaboration
+
+  This task was like first. I learned some new commands, but it still Git.
+  
+  Thanks.
+  
+  !["Git for Team Collaboration" is done](/img/git-collaboration-mini.png "'Git for Team Collaboration' is done")
+  
 ### 4. Front-End Basics
 ### 5. Responsive Layouts
 ### 6. HTML & CSS Practice - practice
