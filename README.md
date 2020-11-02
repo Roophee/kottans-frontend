@@ -50,6 +50,7 @@ Linux is free OS. That's why it is convenient use Linux on servers. Main feature
   - customizability
 You can make everything with help of command line: create and delete files, rename it, kill process and redirect stdout in another program.
 It was interesting. I fill like hacker. I made many things only with help of keyboard and terminal.
+
 Thanks.
 
 !["Linuc CLI, HTTP Tools"](/task_linux_cli/1-3.png "'Linuc CLI, HTTP Tools' is done")
