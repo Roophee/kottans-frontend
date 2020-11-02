@@ -13,7 +13,7 @@
   - remote repository
   - tag
   
-![course from Udacity is done](/img/1-mini.png "course from Udacity is done")
+![course from Udacity is done](/git_and_github/1-mini.png "course from Udacity is done")
 
  There are not so many commands in git like in programming languages. This not suprising because there is a lot more abstraction in programming languages.
  
@@ -38,9 +38,9 @@
   
 Thanks for this knowledge.  It was fun.
 
-!["Main: Introduction Sequence" is done](/img/2-mini.png "'Main: Introduction Sequence' is done")
+!["Main: Introduction Sequence" is done](/git_and_github/2-mini.png "'Main: Introduction Sequence' is done")
 
-!["Remote: Push & Pull" is done](/img/3-mini.png "'Remote: Push & Pull' is done")
+!["Remote: Push & Pull" is done](/git_and_github/3-mini.png "'Remote: Push & Pull' is done")
   
 ### 2. Linux CLI, HTTP
 
