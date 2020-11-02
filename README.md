@@ -63,7 +63,11 @@ Thanks.
   
   Thanks.
   
-  !["Git for Team Collaboration" is done](/img/git-collaboration-mini.png "'Git for Team Collaboration' is done")
+  !["Git for Team Collaboration" is done](/task_git_collaboration/git-collaboration-mini.png "'Git for Team Collaboration' is done")
+  
+  !["Git for Team Collaboration" is done](/task_git_collaboration/2-mini.png "'Git for Team Collaboration' is done")
+
+  !["Git for Team Collaboration" is done](/task_git_collaboration/3-mini.png "'Git for Team Collaboration' is done")
   
 ### 4. Front-End Basics
 ### 5. Responsive Layouts
