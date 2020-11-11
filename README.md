@@ -2,7 +2,7 @@
 
 ## Tasks Listing
 
-### 1. Git intro
+## 1. Git intro
 
   Git really great technologie. Is is simple, strong and safely. Simple thingth, that don't need to add something, are very fundamental and convenient.
   Great that git is so powerful and laconic. Basic abstractions of git are:
@@ -42,7 +42,7 @@ Thanks for this knowledge.  It was fun.
 
 !["Remote: Push & Pull" is done](/git_and_github/3-mini.png "'Remote: Push & Pull' is done")
   
-### 2. Linux CLI, HTTP
+## 2. Linux CLI, HTTP
 
 Linux is free OS. That's why it is convenient use Linux on servers. Main features of Linux are:
   - all-powerfull command line
@@ -57,7 +57,7 @@ Thanks.
 !["Linuc CLI, HTTP Tools"](/task_linux_cli/1-3.png "'Linuc CLI, HTTP Tools' is done")
 
    
-### 3. Git for Team Collaboration
+## 3. Git for Team Collaboration
 
   This task was like first. I learned some new commands, but it still Git.
   
@@ -69,15 +69,17 @@ Thanks.
 
   !["Git for Team Collaboration" is done](/task_git_collaboration/3-mini.png "'Git for Team Collaboration' is done")
   
-### 4. Front-End Basics
-### 5. Responsive Layouts
-### 6. HTML & CSS Practice - practice
-### 7. JavaScript Basics
-### 8. Document Object Model - practice
-### 9 Building a Tiny JS World (pre-OOP) - practice
-### 10. Object-Oriented JavaScript - practice
-### 11. OOP exercise - practice
-### 12. Offline Web Applications - optional
-### 13. Memory – Pair Game - practice
-### 14. Website Performance Optimization - optional
-### 15. Friends App - practice
+## 4. Front-End Basics
+  !["Front-End Basics" is done](task_html_css_intro/11.png "'Front-End Basics' is done")
+  !["Front-End Basics" is done](task_html_css_intro/11.png "'Front-End Basics' is done")
+## 5. Responsive Layouts
+## 6. HTML & CSS Practice - practice
+## 7. JavaScript Basics
+## 8. Document Object Model - practice
+## 9 Building a Tiny JS World (pre-OOP) - practice
+## 10. Object-Oriented JavaScript - practice
+## 11. OOP exercise - practice
+## 12. Offline Web Applications - optional
+## 13. Memory – Pair Game - practice
+## 14. Website Performance Optimization - optional
+## 15. Friends App - practice
