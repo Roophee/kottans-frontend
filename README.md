@@ -70,8 +70,11 @@ Thanks.
   !["Git for Team Collaboration" is done](/task_git_collaboration/3-mini.png "'Git for Team Collaboration' is done")
   
 ## 4. Front-End Basics
+  HTML is the language which the browzer how it should to display site or app. CSS help HTML and make site or app perfect with help of more specialied features.
+  
   !["Front-End Basics" is done](task_html_css_intro/11.png "'Front-End Basics' is done")
   !["Front-End Basics" is done](task_html_css_intro/12.png "'Front-End Basics' is done")
+  
 ## 5. Responsive Layouts
 ## 6. HTML & CSS Practice - practice
 ## 7. JavaScript Basics
