@@ -76,6 +76,14 @@ Thanks.
   !["Front-End Basics" is done](task_html_css_intro/12.png "'Front-End Basics' is done")
   
 ## 5. Responsive Layouts
+
+  Responsive Desing is very import part of frontend devrlopment. Our app must be beautiful and useful when it use from any size of display. It can be phone or desctop.
+  Flex-box - useful and handy.
+  
+  !["Responsive Layouts" is done](/task_responsive_web_design/Responsive - Udacity.png "'Responsive Layouts' is done")
+
+  !["Responsive Layouts" is done](/task_responsive_web_design/flex-frogs.png "'Responsive Layouts' is done")
+  
 ## 6. HTML & CSS Practice - practice
 ## 7. JavaScript Basics
 ## 8. Document Object Model - practice
