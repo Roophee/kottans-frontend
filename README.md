@@ -86,7 +86,7 @@ Thanks.
   
 ## 6. HTML & CSS Practice - practice
 
-[Demo](https://roophee.github.io/)
+[Demo](https://roophee.github.io/) -- 
 This task was interesting for me. It was like a challenge. Theoretical knowledge only in practice becomes an understanding and an effective force. Thanks for this experience!
 
 
