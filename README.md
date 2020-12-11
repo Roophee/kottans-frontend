@@ -85,6 +85,11 @@ Thanks.
   !["Responsive Layouts" is done](/task_responsive_web_design/flex-frogs.png "'Responsive Layouts' is done")
   
 ## 6. HTML & CSS Practice - practice
+
+[Demo](https://roophee.github.io/)
+This task was interesting for me. It was like a challenge. Theoretical knowledge only in practice becomes an understanding and an effective force. Thanks for this experience!
+
+
 ## 7. JavaScript Basics
 ## 8. Document Object Model - practice
 ## 9 Building a Tiny JS World (pre-OOP) - practice
