@@ -91,6 +91,16 @@ This task was interesting for me. It was like a challenge. Theoretical knowledge
 
 
 ## 7. JavaScript Basics
+
+Javascript is interesting and powerful instrument, that helps make web-pages more dynamic.
+
+!["JS Basic" is done](/task_js_basics/JS_Basic.png "'JS Basic' is done")
+
+!["JS Basic" is done](/task_js_basics/Curriculum.png "'JS Basic' is done")
+
+Other screens are in folder.
+
+
 ## 8. Document Object Model - practice
 ## 9 Building a Tiny JS World (pre-OOP) - practice
 ## 10. Object-Oriented JavaScript - practice
