@@ -102,6 +102,12 @@ Other screens are in folder.
 
 
 ## 8. Document Object Model - practice
+
+[Demo](https://roophee.github.io/js1/)
+
+DOM API is a great thing. With help of it you can interact with almost any part of Web-page. JS & DOM API powerfull duet. Thants!
+
+
 ## 9 Building a Tiny JS World (pre-OOP) - practice
 ## 10. Object-Oriented JavaScript - practice
 ## 11. OOP exercise - practice
