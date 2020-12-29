@@ -116,6 +116,14 @@ DOM API is a great thing. With help of it you can interact with almost any part 
 This task was a new experience for me. I have some skills in Python, and it's help me.  But basic knowledge for pass this task are Array`s methods. Array object have few methods, that help manipulate with array items in one or two commands. It's very useful.
 
 ## 10. Object-Oriented JavaScript - practice
+
+[Demo](https://roophee.github.io/udacity-game/) | 
+[Code base](https://github.com/Roophee/frontend-2021-homeworks/tree/js-oop/submissions/Roophee/js-oop)
+
+It was fun and complex for me. Task description tell only part of information, another part you had to understand by yourself. This task reminded me of using library packages which require the user to override some methods in objects inherited from mixins that the library provides.
+
+
+
 ## 11. OOP exercise - practice
 ## 12. Offline Web Applications - optional
 ## 13. Memory – Pair Game - practice
