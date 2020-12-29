@@ -108,7 +108,7 @@ Other screens are in folder.
 DOM API is a great thing. With help of it you can interact with almost any part of Web-page. JS & DOM API powerfull duet. Thants!
 
 
-## 9 Building a Tiny JS World (pre-OOP) - practice
+## 9. Building a Tiny JS World (pre-OOP) - practice
 
 [Demo](https://roophee.github.io/js-tyni-world-noOOP/) | 
 [Code base](https://github.com/Roophee/frontend-2021-homeworks/tree/a-tyni-js-world-2/submissions/Roophee/a-tyni-js-world-roophee)
