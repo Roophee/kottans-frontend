@@ -110,7 +110,7 @@ DOM API is a great thing. With help of it you can interact with almost any part 
 
 ## 9 Building a Tiny JS World (pre-OOP) - practice
 
-[Demo](https://roophee.github.io/js-tyni-world-noOOP/)
+[Demo](https://roophee.github.io/js-tyni-world-noOOP/) | 
 [Code base](https://github.com/Roophee/frontend-2021-homeworks/tree/a-tyni-js-world-2/submissions/Roophee/a-tyni-js-world-roophee)
 
 This task was a new experience for me. I have some skills in Python, and it's help me.  But basic knowledge for pass this task are Array`s methods. Array object have few methods, that help manipulate with array items in one or two commands. It's very useful.
