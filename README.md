@@ -120,8 +120,12 @@ This task was a new experience for me. I have some skills in Python, and it's he
 [Demo](https://roophee.github.io/udacity-game/) | 
 [Code base](https://github.com/Roophee/frontend-2021-homeworks/tree/js-oop/submissions/Roophee/js-oop)
 
+[Code Wars Profile](https://www.codewars.com/users/Roophee)
+
 It was fun and complex for me. Task description tell only part of information, another part you had to understand by yourself. This task reminded me of using library packages which require the user to override some methods in objects inherited from mixins that the library provides.
 
+!["JS OOP" is done](/task_js_oop/udacity_oop.png "'JS OOP' is done")
+!["JS Basic" is done](/task_js_oop/code_wars.png "'JS OOP' is done")
 
 
 ## 11. OOP exercise - practice
