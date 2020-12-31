@@ -129,8 +129,8 @@ It was fun and complex for me. Task description tell only part of information, a
 
 [Demo](https://roophee.github.io/a-tiny-js-world-oop/)
 
-It was an exciting assignment. Thanks to my mentor for your patience.
-OOP is a convenient and functional programming paradigm. Encapsulation, inheritance and polymorphism allow you to write code without duplication without losing functionality.
+It was an exciting assignment. Thanks to my mentor for his patience.
+OOP is a convenient and functional programming paradigm. Encapsulation, inheritance and polymorphism allow you to write code without duplication and no losing in functionality.
 
 Thank you for this experience and knowledge !!!
 
