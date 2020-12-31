@@ -126,6 +126,14 @@ It was fun and complex for me. Task description tell only part of information, a
 
 
 ## 11. OOP exercise - practice
+
+[Demo](https://roophee.github.io/a-tiny-js-world-oop/)
+
+It was an exciting assignment. Thanks to my mentor for your patience.
+OOP is a convenient and functional programming paradigm. Encapsulation, inheritance and polymorphism allow you to write code without duplication without losing functionality.
+
+Thank you for this experience and knowledge !!!
+
 ## 12. Offline Web Applications - optional
 ## 13. Memory – Pair Game - practice
 ## 14. Website Performance Optimization - optional
