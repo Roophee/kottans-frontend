@@ -139,9 +139,9 @@ Thank you for this experience and knowledge !!!
 
 [Demo](https://roophee.github.io/pair-game/)
 
-  Any of the tasks here were for me adventures and self-knowledge.
+   Any of the tasks here were for me adventures and self-knowledge.
 Many features and nuances that need to be taken into account and kept in mind train thinking. New information on various technologies shows how much the programming community has done to popularize programming and create a convenient infrastructure for beginners and experienced programmers.
-Special thanks to the mentor. Their comments and advice during the delivery of the assignment showed how much remains to be done and that there is no limit to perfection.
+Special thanks to the mentors. Their comments and advice during the delivery of the assignment showed how much remains to be done and that there is no limit to perfection.
 
 ## 14. Website Performance Optimization - optional
 ## 15. Friends App - practice
