@@ -136,5 +136,20 @@ Thank you for this experience and knowledge !!!
 
 ## 12. Offline Web Applications - optional
 ## 13. Memory – Pair Game - practice
+
+[Demo](https://roophee.github.io/pair-game/)
+
+  Any of the tasks here were for me adventures and self-knowledge.
+Many features and nuances that need to be taken into account and kept in mind train thinking. New information on various technologies shows how much the programming community has done to popularize programming and create a convenient infrastructure for beginners and experienced programmers.
+Special thanks to the mentor. Their comments and advice during the delivery of the assignment showed how much remains to be done and that there is no limit to perfection.
+
 ## 14. Website Performance Optimization - optional
 ## 15. Friends App - practice
+
+[Demo](https://roophee.github.io/friends-app/)
+
+  This assignment gave me a taste for being a social network developer. Interaction with sites as a developer is very different from the user experience. A whole world of problems, tasks, technologies is hidden behind the pleasant interface of the application.
+But all these forces are in balance and interact, like a clockwork, starting each other and accompanying.
+Mechanisms and algorithms are wonderful in that a huge power is formed from small actions, which is useful and pleasant for both creators and users.
+Once again, many thanks to the mentors. Your comments helped make my code better.
+What I've learned for sure is drying.
